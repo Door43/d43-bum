@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bum:home|Door43 (bum)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bum|d43-bum repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bum/archive/master.zip|d43-bum.zip]]
+
+**Recent Changes**
+{{changes>ns = bum}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bum|Ethnologue data]]
+
